@@ -1,0 +1,22 @@
+{
+  "name": "language-swig-templates",
+  "version": "0.0.0",
+  "description": "Swig Template Language for Atom converted Textmate Bundle",
+  "keywords": [
+    "language",
+    "swig",
+    "textmate"
+  ],
+  "author": {
+    "name": "Ryan Watts",
+    "url": "https://github.com/rwatts3",
+    "email": "ryandwatts@gmail.com"
+  },
+  "repository": "https://github.com/rwatts3/atom-language-swig",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
